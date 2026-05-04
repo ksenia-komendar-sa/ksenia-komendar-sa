@@ -39,7 +39,7 @@
 - Выявлены узкие места процесса
 - Предложены улучшения бизнес-процесса
 
-🔗 Ссылка: 
+🔗 Ссылка: https://github.com/ksenia-komendar-sa/bpmn-appointment-system
 
 
 
