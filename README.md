@@ -39,7 +39,7 @@ Cмоделировала процесс записи пациента к вра
 - Построила UML-диаграмму состояний (State Machine)
 - Выявила узкие места процесса и предложила улучшения
 
-🔗 Ссылка: https://github.com/ksenia-komendar-sa/bpmn-appointment-system
+🔗 Ссылка: https://github.com/ksenia-komendar-sa/patient-appointment-bpmn
 
 # Приложение для управления умным домом
 
@@ -53,7 +53,7 @@ Cпроектировала требования для мобильного п�
 - Создала интерактивные прототипы в Figma
 - Составила словарь данных и программу и методику испытаний
 
-🔗 Ссылка: https://github.com/ksenia-komendar-sa/IoT-app
+🔗 Ссылка: https://github.com/ksenia-komendar-sa/smart-home-requirements
 
 # Проектирование API: страхование питомцев
 
