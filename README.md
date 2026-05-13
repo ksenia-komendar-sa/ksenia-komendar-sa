@@ -64,4 +64,4 @@ Cпроектировала требования для мобильного п�
 - Смоделировала профиль API: Job Story, действия пользователей, границы API и операции
 - Задокументировала API в формате OpenAPI 3.0 (Swagger)
 
-🔗 Ссылка:
+🔗 Ссылка: https://github.com/ksenia-komendar-sa/pet-insurance-api
