@@ -46,7 +46,7 @@ Cпроектировала требования для мобильного п�
 - Создала интерактивные прототипы в Figma
 - Составила словарь данных и программу и методику испытаний
 
-🔗 Ссылка: https://github.com/ksenia-komendar-sa/smart-home-requirements
+[🔗 Ссылка](https://github.com/ksenia-komendar-sa/smart-home-requirements)
 
 # Проектирование API: страхование питомцев
 
@@ -57,4 +57,4 @@ Cпроектировала требования для мобильного п�
 - Смоделировала профиль API: Job Story, действия пользователей, границы API и операции
 - Задокументировала API в формате OpenAPI 3.0 (Swagger)
 
-🔗 Ссылка: https://github.com/ksenia-komendar-sa/pet-insurance-api
+[🔗 Ссылка](https://github.com/ksenia-komendar-sa/pet-insurance-api)
