@@ -32,7 +32,7 @@ Cмоделировала процесс записи пациента к вра
 - Построила UML-диаграмму состояний (State Machine)
 - Выявила узкие места процесса и предложила улучшения
 
-🔗 Ссылка: https://github.com/ksenia-komendar-sa/patient-appointment-bpmn
+[🔗 Ссылка](https://github.com/ksenia-komendar-sa/patient-appointment-bpmn)
 
 # Приложение для управления умным домом
 
