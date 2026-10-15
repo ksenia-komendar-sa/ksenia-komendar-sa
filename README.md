@@ -41,8 +41,8 @@
 - Задокументировала API в формате OpenAPI 3.0
 - Спроектировала архитектуру подсистемы push-уведомлений: регистрация device-токенов, доставка через Kafka, повторные попытки с нарастающей задержкой и DLQ
 - Обосновала ключевые решения в 4 ADR: выбор брокера, структура очередей, схема данных, формат ошибок
-  
-[🔗 Ссылка](https://github.com/ksenia-komendar-sa/push-notifications-architecture)
+
+[🔗 Ссылка](https://github.com/ksenia-komendar-sa/food-delivery-system-design)
 
 # Приложение для управления умным домом
 
